@@ -114,3 +114,4 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
 # 参考になるサイト
 - 東大 https://utelecon.github.io/
 - 京大 https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/
+- NII https://www.nii.ac.jp/news/2020/0325.html
