@@ -22,6 +22,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
   - LMSやWeb会議システムが障害を起こした際の対応
   - 対面の授業も継続するなら着席方法も要検討
   - 上回生配当科目、下回生配当科目の履修も考慮
+- https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/indication_to_students.php
 ### 講義の方法
 - 板書
   - カメラで撮影して送信する
@@ -42,6 +43,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
   - breakout
   - 通信量は？
 - 学生と双方向のやりとりをどのようにするか
+  - https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/interactive_communication.php
   - Web会議を使う場合は発言権の要求/承認のプロトコルは
   - オンデマンド型の場合はどうする
 - 資料配布
@@ -67,6 +69,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
 ### 成績評価の方法
 - 試験をやるものの扱い
 ### 著作権
+- https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/copyright.php
 ### Web会議システムの設定
 - host による強制ミュート
 - 学生によるrecordingを禁止したい (e.g. 教育系YouTuberの動画と比べられるのは恥ずかしい)
@@ -98,7 +101,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
 # 想定される状況
 - 不要不急の外出自粛の要請が出る
 - 外出制限で教職員・学生が来学することが困難になる
-  - 公共交通機関がストップする可能性
+  - 公共交通がストップする可能性
 - 教職員・学生がCOVID-19の患者またはその患者の濃厚接触者になり自宅隔離等になる
 # 参考になるサイト
 - 東大 https://utelecon.github.io/
