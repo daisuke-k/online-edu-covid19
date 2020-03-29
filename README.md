@@ -34,6 +34,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
     - 撮影担当のTAが必要
     - システム構成
   - 書画カメラ
+  - Zoom 等のWeb会議アプリにあるホワイトボード機能 + タブレット (iPadなど) + 電子ペン (Apple Pencilなど) で代替できるか？
   - 通信量は？
     - Zoom だと、画面に動きがあまりないときは200kbps〜300kbps、画面が大きく変わるタイミングで最大1.5Mbpsぐらい（これまでの経験）
 - パワポのスライド
