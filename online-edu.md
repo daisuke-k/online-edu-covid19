@@ -21,6 +21,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
 - 各講義がどのように行われるかを学生にアナウンスする
   - LMSやWeb会議システムが障害を起こした際の対応
   - 対面の授業も継続するなら着席方法も要検討
+  - 上回生配当科目、下回生配当科目の履修も考慮
 ### 講義の方法
 - 板書
   - カメラで撮影して送信する
