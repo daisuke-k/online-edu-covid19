@@ -28,9 +28,11 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
     - システム構成
   - 書画カメラ
   - 通信量は？
+    - Zoom だと、画面が変わらないときは100kbps〜200kbps、画面が変わるタイミングで最大1.5Mbpsぐらい
 - パワポのスライド
   - PowerPointで音声を録画する方法もある
   - 通信量は？
+    - Zoom だと、画面が変わらないときは100kbps〜200kbps、画面が変わるタイミングで最大1.5Mbpsぐらい
 - 音声・動画のみ
   - 通信量は？
 - グループのディスカッション
