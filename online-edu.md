@@ -7,6 +7,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
 - Web会議システム、LMS
   - 新規に調達するならアカウントの運用方法も要調整
   - 負荷の想定、それに耐えられるか、耐えられないならどうするか
+  - Web会議システムは Zoom, Cisco Webex, Google Hangout Meet, Skype for Business あたりか？V-CUBEは同時接続数が少なめ。大教室での講義相当を考えると1会議室あたり300〜500クライアントの同時接続はほしい
 - カメラ、マイク (内蔵マイクは音質が悪くなりがちなので避けたほうがよい)
   - ピンマイク、ヘッドセット
   - 板書ならビデオカメラ + 指向性マイク
