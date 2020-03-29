@@ -15,6 +15,7 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
 ## 授業の方法
 ### 学生へのアナウンス
 - 「学生の環境」（以下）を満たすような環境を整えさせる
+  - 整えられない学生に対する支援策
 - 各講義がどのように行われるかを学生にアナウンスする
   - LMSやWeb会議システムが障害を起こした際の対応
 ### 講義の方法
@@ -79,8 +80,6 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
     - 学内で自習用スペース (換気をする、密集させない、近距離の会話や発声を抑える) 確保
       - 出入り口で密集してしまうようなことはないか、食堂、通学・帰宅時間
       - 学内ネットワークは大丈夫か (Wi-Fi、バックボーンの帯域、NAT、プロキシ、侵入検知装置 (IDS)、対外接続回線)
-    - PC、タプレット端末の貸し出し、データ通信料の補助等の検討
-      - 基準、方法
 - LMS、Web会議システム (Zoom, Webex, Hangout Meet等)にアクセスできるか確かめるさせる、その案内をする
 # 参考になるサイト
-- 東大のサイトが参考になる https://utelecon.github.io/
+- 東大 https://utelecon.github.io/
