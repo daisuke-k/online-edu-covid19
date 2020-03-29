@@ -113,3 +113,4 @@ https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/patterns.php
 - 教職員・学生がCOVID-19の患者またはその患者の濃厚接触者になり自宅隔離等になる
 # 参考になるサイト
 - 東大 https://utelecon.github.io/
+- 京大 https://www.highedu.kyoto-u.ac.jp/connect/teachingonline/
